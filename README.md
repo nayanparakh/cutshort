@@ -48,7 +48,28 @@ receive data when you add an API key for them in Settings.
 - **Export**: MP4 (hardware H.264 where available), audio, captions, FCPXML, full
   project import/export.
 
-## Requirements
+## Download and install (Windows)
+
+1. Download **`cutshort-0.1.0-x64.exe`** from the
+   [latest release](https://github.com/nayanparakh/cutshort/releases/latest).
+2. Optional: check the file against the SHA-256 in the release notes:
+
+   ```powershell
+   Get-FileHash .\cutshort-0.1.0-x64.exe -Algorithm SHA256
+   ```
+
+3. Double-click the installer. It installs for your user only, so it doesn't need
+   admin rights.
+4. The installer isn't code-signed yet, so Windows SmartScreen may show
+   **"Windows protected your PC"**. Choose **More info → Run anyway**.
+5. Start **cutshort** from the Start menu or the desktop shortcut.
+
+For local AI chat, also install [Ollama](https://ollama.com/) and run
+`ollama pull qwen3:8b` (see [Local AI setup](#local-ai-setup)).
+
+To uninstall, use **Settings → Apps → Installed apps → cutshort**.
+
+## Requirements (building from source)
 
 - Windows 10/11 x64
 - [Node.js 24.x](https://nodejs.org/) and npm (see `.nvmrc`)
