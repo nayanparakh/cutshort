@@ -29,8 +29,6 @@ Out of the box, AI runs **on your machine**: a local LLM (Ollama or LM Studio) f
 the agent, and whisper.cpp for transcripts. Cloud providers are opt-in. They only
 receive data when you add an API key for them in Settings.
 
-cutshort is derived from [OpenChatCut](https://github.com/0xsline/OpenChatCut) and is
-licensed under the [GNU AGPL-3.0-or-later](LICENSE). See [NOTICE](NOTICE).
 
 ## Features
 
