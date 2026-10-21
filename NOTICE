@@ -1,0 +1,17 @@
+cutshort
+Copyright (C) 2026 Nayan (experimenting with AI) and cutshort contributors
+
+cutshort is a modified version of OpenChatCut
+  https://github.com/0xsline/OpenChatCut
+  Imported from commit c7136c0fbe61b6dddc397d008b1c75a4bacb7c61 (2026-10-20)
+  Copyright (C) OpenChatCut contributors
+
+Both are licensed under the GNU Affero General Public License, version 3 or
+(at your option) any later version. See LICENSE.
+
+Changes from OpenChatCut include: renamed to cutshort; Windows-only packaging;
+local Ollama as the default AI provider; update checks moved to
+nayanparakh/cutshort; the online extension registry and upstream contact links
+disabled; the agent's "silent" telemetry instruction removed. See CHANGELOG.md and SECURITY-AUDIT.md.
+
+Third-party components, fonts, models and binaries keep their own licenses.

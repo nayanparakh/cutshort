@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cutshort": {
+      "type": "http",
+      "url": "http://localhost:5199/api/external-mcp/mcp",
+      "headers": {
+        "x-cutshort-mcp-client": "claude-code",
+        "x-cutshort-mcp-surface": "external"
+      }
+    }
+  }
+}
