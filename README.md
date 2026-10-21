@@ -131,10 +131,5 @@ The upstream source was audited before import. See
 ## Credits
 
 cutshort is a project by **Nayan**, experimenting with AI. It builds on the excellent
-[OpenChatCut](https://github.com/0xsline/OpenChatCut) by 0xsline and its contributors.
+[OpenChatCut] by 0xsline and its contributors.
 
-## License
-
-GNU Affero General Public License v3.0 or later. If you distribute cutshort, or
-run a modified version as a network service, you must offer the corresponding
-source. Third-party components, fonts and binaries keep their own licenses.
