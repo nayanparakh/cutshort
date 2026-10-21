@@ -12,9 +12,6 @@
   Built by <strong>Nayan</strong>, experimenting with AI ·
   <a href="https://github.com/nayanparakh">@nayanparakh</a>
 </p>
-
-<p align="center">
-  <img alt="License: AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat" />
   <img alt="Platform: Windows" src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=flat" />
   <img alt="AI: local-first" src="https://img.shields.io/badge/AI-local--first-111827?style=flat" />
 </p>
